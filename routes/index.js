@@ -8,5 +8,3 @@ router.get('/wyr', function(req, res, next) {
 })
 
 module.exports = router
-
-
